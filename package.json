@@ -1,0 +1,13 @@
+{
+  "name": "merge.js",
+  "version": "0.0.3",
+  "description": "A javascript builder ala webpack/browserify, with coffeescript, require() caching and browser compatibility support",
+  "bin": {
+    "merge.js": "src/merge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cfal/merge.js"
+  },
+  "author": "cfal"
+}
