@@ -1,6 +1,6 @@
 # merge.js
 
-A javascript builder ala webpack/browserify, with coffeescript, require() caching and browser compatibility support
+A javascript merger similar to webpack/browserify, with coffeescript support, require() caching and browser compatibility
 
 ### Usage
 

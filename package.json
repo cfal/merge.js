@@ -1,7 +1,7 @@
 {
   "name": "merge.js",
-  "version": "0.0.3",
-  "description": "A javascript builder ala webpack/browserify, with coffeescript, require() caching and browser compatibility support",
+  "version": "0.0.5",
+  "description": "A javascript merger similar to webpack/browserify, with coffeescript support, require() caching and browser compatibility",
   "bin": {
     "merge.js": "src/merge.js"
   },

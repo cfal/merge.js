@@ -123,7 +123,7 @@ Usage: merge.js [options] [input files]\n \
       aliases[alias] = file;
       add(file);
     } else {
-      if (!fs.existsSync(arg)) die("Invalid argument: " + fname);
+      if (!fs.existsSync(arg)) die("Invalid argument: " + arg);
       add(arg, !isAddingFiles);
     }
   }
